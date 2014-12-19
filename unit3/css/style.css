@@ -1,9 +1,8 @@
 body{
-  background-image: url("http://dorlandini.github.io/unit3/assets/background.jpg"), url("http://dorlandini.github.io/unit3/assets/stripes.png");
-  background-color: #52596B;
-  background-size: cover;
-	background-position: left-center, top;
-  background-repeat: no-repeat, repeat-x;
+  /*background-image: url("http://dorlandini.github.io/unit3/assets/background.jpg"), url("http://dorlandini.github.io/unit3/assets/stripes.png");*/
+  background: url("../assets/stripes.png"), url("../assets/background.jpg"), #52596B;
+  background-size: auto, cover;
+  background-repeat: repeat-x, no-repeat;
   font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -11,7 +10,7 @@ body{
   color: white;
   text-align: left;
   margin-top: 200px;
-  margin-left: 150px;
+  margin-left: 50px;
 }
 hr{
 	width: 40px;
