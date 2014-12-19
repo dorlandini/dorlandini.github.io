@@ -1,0 +1,25 @@
+body{
+  background-image: url("assets/background.jpg"), url("assets/stripes.png");
+  background-color: #52596B;
+	background-position: left;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  line-height: 29px;
+  color: white;
+  text-align: left;
+}
+hr{
+	width: 40px;
+  height: 2px;
+  background-color: #FD6E6E;
+  border-color: #FD6E6E;
+  text-align: left;
+
+	;
+}
+
+}
+a{
+
+}
